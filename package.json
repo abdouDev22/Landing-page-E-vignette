@@ -1,0 +1,22 @@
+{
+  "name": "gsap-project",
+  "version": "1.0.0",
+  "description": "A simple GSAP project",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [
+    "gsap",
+    "javascript",
+    "animation"
+  ],
+  "author": "Votre Nom",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "gsap": "^3.11.0"
+  }
+}
